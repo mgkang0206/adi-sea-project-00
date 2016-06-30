@@ -10,7 +10,6 @@
 | If the user enters "Play", they should be able to play a game against the computer | | | |  |
 | If the user enters "History", the program should display previous game history | | | |  |
 | Handle invalid user input | | | | |
-| Use Hashmaps and Try/Catch | | |  |  |
 | Provide Instructions to Play Game / Use store inventory | | |  |  |
 | **Bonus**: Store game history across sessions | |  |  |   |
 
