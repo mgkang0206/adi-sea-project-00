@@ -7,11 +7,11 @@
 
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
-| If the user enters "Play", they should be able to play a game against the computer | | | | n/a |
-| If the user enters "History", the program should display previous game history | | | | n/a |
+| If the user enters "Play", they should be able to play a game against the computer | | | |  |
+| If the user enters "History", the program should display previous game history | | | |  |
 | Handle invalid user input | | | | |
-| Use Hashmaps and Try/Catch | | |  | n/a |
-| **Bonus**: Store game history across sessions | n/a | n/a | n/a |   |
+| Use Hashmaps and Try/Catch | | |  |  |
+| **Bonus**: Store game history across sessions | |  |  |   |
 
 
 
