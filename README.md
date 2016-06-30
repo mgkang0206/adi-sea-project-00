@@ -8,6 +8,7 @@ Let's put your Java knowledge to good use! You have just heard word that Dianna 
 
 - The game must contain the inventory of the store! We need to advertise!
 - The game must use at least one hashmap and one try/catch. Dianna has heard good things about those commands from her grandson, so I guess we have to use them.
+- Provide instructions on how to play your game.
 
 ---
 
@@ -17,6 +18,8 @@ Your work must:
 
 - Have a main menu with the function of the previous lab:
   - If the user enters "play", they should be able to play Dianna's game against the computer
+  - Provide instructions on how to play the game
+  - Should use the inventory from the store in the game
   - If the user enters "history", the program should display previous game history
 - Handle invalid user input
 - Use a hashmap and try/catch
