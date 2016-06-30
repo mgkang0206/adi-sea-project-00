@@ -1,15 +1,13 @@
 # adi-sea-project-00
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project: Rock Paper Scissors
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project: Dianna's Dinosaur and Donut Emporium, part 2...
 
 #### Overview
 
-Let's put your Java knowledge to use! You're going to be creating a basic version of Rock Paper Scissors that you play against the computer in the console. The game consists of two main features:
+Let's put your Java knowledge to use! You have just heard word that Dianna LOVES your new program. So much so, that she's planning on using it in her new marketing campaign! You're tasked, as the voice of your generation, of making the brand speak to the youth of today. A game seemed like the easiest solution, so you set out to create your new masterpiece. Dianna only has a few requests:
 
-- Play Rock Paper Scissors against a computer player
-- View previous game history
-
-**Hint:** Use a [random number generator](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html) to pick the computer's choice.
+- The game must contain the inventory of the store! We need to advertise!
+- The game must use at least one hashmap and one try/catch. Dianna has heard good things about those commands from her grandson, so I guess we have to use them.
 
 ---
 
@@ -17,16 +15,15 @@ Let's put your Java knowledge to use! You're going to be creating a basic versio
 
 Your work must:
 
-- Have a main menu with options to enter "play" or "history":
-  - If the user enters "play", they should be able to play Rock Paper Scissors against the computer
+- Have a main menu with the function of the previous lab:
+  - If the user enters "play", they should be able to play Dianna's game against the computer
   - If the user enters "history", the program should display previous game history
 - Handle invalid user input
-- Use Arrays or ArrayLists to store game history
+- Use a hashmap and try/catch
 
 **Bonus:**
 
-- Handle incorrect capitalization of otherwise valid user input (rock, Rock, RoCk, ROCK, etc.)
-- Store game history across sessions
+- Store game history/inventory across sessions
 
 ---
 
@@ -36,77 +33,6 @@ Your work must:
 As always, your app must adhere to General Assembly's [student code of conduct guidelines](../../../resources/guidelines/code-of-conduct.md).
 
 If you have questions about whether or not your work adheres to these guidelines, please speak with a member of your instructional team.
-
----
-
-#### Necessary Deliverables
-
-Submit a pull request with a Java program that meets the above requirements.
-
-Below, you can see sample output:
-
-```
-Welcome to Rock Paper Scissors!
-
-MAIN MENU
-=====
-1. Type 'play' to play
-2. Type 'history' to view your game history
-Type 'quit' to stop playing
-
-play
-
-
-Type in 'rock' 'paper' or 'scissors' to play.
- Type 'quit' to go back to the Main Menu
-
-rock
-Computer picks: scissors
-User picks: rock
-You win!
-
-Welcome to Rock Paper Scissors!
-
-MAIN MENU
-=====
-1. Type 'play' to play
-2. Type 'history' to view your game history
-Type 'quit' to stop playing
-
-play
-
-
-Type in 'rock' 'paper' or 'scissors' to play.
- Type 'quit' to go back to the Main Menu
-
-paper
-Computer picks: scissors
-User picks: paper
-You lose!
-
-Welcome to Rock Paper Scissors!
-
-MAIN MENU
-=====
-1. Type 'play' to play
-2. Type 'history' to view your game history
-Type 'quit' to stop playing
-
-history
-=== GAME HISTORY ===
-WIN: Player-rock computer-scissors
-LOSS: Player-paper computer-scissors
-
-Welcome to Rock Paper Scissors!
-
-MAIN MENU
-=====
-1. Type 'play' to play
-2. Type 'history' to view your game history
-Type 'quit' to stop playing
-
-quit
-```
 
 ---
 
@@ -121,7 +47,6 @@ quit
 ### Useful Resources
 
 - [Random number generator](https://docs.oracle.com/javase/8/docs/api/java/util/Random.html)
-- [Rules, history of Rock Paper Scissors](https://en.wikipedia.org/wiki/Rock-paper-scissors)
 
 ---
 
