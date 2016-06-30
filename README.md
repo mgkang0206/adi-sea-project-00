@@ -7,7 +7,7 @@
 Let's put your Java knowledge to good use! You have just heard word that Dianna LOVES your new program. So much so, that she's planning on using it in her new marketing campaign! You're tasked, as the voice of your generation, of making the brand speak to the youth of today. After a round of internet polls, a game seemed like the most appealing solution, so you set out to create your new masterpiece. Dianna only has a few requests:
 
 - The game must contain the inventory of the store! We need to advertise!
-- The game must use at least one hashmap and one try/catch. Dianna has heard good things about those commands from her grandson, so I guess we have to use them.
+- The game must use at least one hashmap. Dianna has heard good things about hashmaps from her grandson, so I guess we have to use them.
 - Provide instructions on how to play your game.
 
 ---
@@ -22,7 +22,7 @@ Your work must:
   - Should use the inventory from the store in the game
   - If the user enters "history", the program should display previous game history
 - Handle invalid user input
-- Use a hashmap and try/catch
+- Use a hashmap
 
 **Bonus:**
 
